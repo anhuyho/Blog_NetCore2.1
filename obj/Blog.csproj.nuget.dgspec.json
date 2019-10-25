@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huy\\Desktop\\LineProject\\Blog\\Blog.csproj": {}
+    "/Users/huyho/Desktop/LineProject/Blog/Blog_NetCore2.1/Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huy\\Desktop\\LineProject\\Blog\\Blog.csproj": {
+    "/Users/huyho/Desktop/LineProject/Blog/Blog_NetCore2.1/Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huy\\Desktop\\LineProject\\Blog\\Blog.csproj",
+        "projectUniqueName": "/Users/huyho/Desktop/LineProject/Blog/Blog_NetCore2.1/Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\Users\\Huy\\Desktop\\LineProject\\Blog\\Blog.csproj",
-        "packagesPath": "C:\\Users\\Huy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huy\\Desktop\\LineProject\\Blog\\obj\\",
+        "projectPath": "/Users/huyho/Desktop/LineProject/Blog/Blog_NetCore2.1/Blog.csproj",
+        "packagesPath": "/Users/huyho/.nuget/packages/",
+        "outputPath": "/Users/huyho/Desktop/LineProject/Blog/Blog_NetCore2.1/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/huyho/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,7 +83,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

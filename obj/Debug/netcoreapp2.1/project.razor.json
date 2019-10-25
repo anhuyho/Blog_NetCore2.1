@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Huy\\Desktop\\LineProject\\Blog\\Blog.csproj",
+  "FilePath": "/Users/huyho/Desktop/LineProject/Blog/Blog_NetCore2.1/Blog.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2872,48 +2872,48 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "Blog",
   "Documents": [
     {
-      "FilePath": "Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "Views/Panel/Index.cshtml",
+      "TargetPath": "Views/Panel/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "Views/Auth/Login.cshtml",
+      "TargetPath": "Views/Auth/Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Auth\\Login.cshtml",
-      "TargetPath": "Views\\Auth\\Login.cshtml",
+      "FilePath": "Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Panel\\Index.cshtml",
-      "TargetPath": "Views\\Panel\\Index.cshtml",
+      "FilePath": "Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Panel\\Edit.cshtml",
-      "TargetPath": "Views\\Panel\\Edit.cshtml",
+      "FilePath": "Views/Panel/Edit.cshtml",
+      "TargetPath": "Views/Panel/Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Home\\Post.cshtml",
-      "TargetPath": "Views\\Home\\Post.cshtml",
+      "FilePath": "Views/Home/Post.cshtml",
+      "TargetPath": "Views/Home/Post.cshtml",
       "FileKind": "mvc"
     }
   ],
